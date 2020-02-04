@@ -2,7 +2,7 @@
 
 There are a lot of homey apps out there that are not in the official app store for all kinds of reasons, this is an thread to consolidate them in one place. 
 
-*if you dont know how to install such apps, please follow this guide: https://community.athom.com/t/how-to-cli-install-method/198 *
+*if you dont know how to install such apps, please follow this guide:* https://community.athom.com/t/how-to-cli-install-method/198
 
 <h2>Apps (alphabetically):</h2>
 <br>
