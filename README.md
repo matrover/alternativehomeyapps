@@ -1,11 +1,18 @@
 <h1>Alternative apps (store)</h1> 
 
-There are a lot of homey apps out there that are not in the official app store for all kinds of reasons, this is an thread to consolidate them in one place. 
+There are a lot of homey apps out there that are not in the official app store for all kinds of reasons, this is an thread to consolidate them in one place.
 
 *if you dont know how to install such apps, please follow this guide: https://community.athom.com/t/how-to-cli-install-method/198 *
 
+<br>
+
 <h2>Apps (alphabetically):</h2>
 <br>
+
+>**Ancilla**
+>* Description: Get a slidehow of Ancilla’s pics
+>* Community thread: None
+>* Github URL: https://github.com/Rocodamelshe/com.roco.ancilla
 
 >**BUNQ**
 >* Description: Connect your bunq account with Homey  Flow Tags with the balance are available for each banking account
@@ -23,7 +30,7 @@ There are a lot of homey apps out there that are not in the official app store f
 >* Github URL: https://github.com/rogro82/io.homeassistant
 
 >**HomeyCONZ**
->* Description: This app for [Athom Homey](https://homey.app/en-us/) adds support for [deCONZ](https://www.dresden-elektronik.de/funk/software/deconz.html)'s [[RaspBee](https://www.phoscon.de/en/raspbee)/[ConBee](https://www.phoscon.de/en/conbee)] child devices.
+>* Description: This app for [Athom Homey](https://homey.app/en-us/) adds support for [deCONZ](https://www.dresden-elektronik.de/funk/software/deconz.html)'s [[RaspBee](https://www.phoscon.de/en/raspbee)/[ConBee](https://www.phoscon.de/en/conbee)] child devices.
 >* Community thread: None
 >* Github URL: https://github.com/fantomnotabene/HomeyCONZ
 
@@ -33,7 +40,7 @@ There are a lot of homey apps out there that are not in the official app store f
 >* Github URL: https://github.com/jghaanstra/nuki.homey
 
 <br>
-if you know such apps please leave them in the comments in this format and i will include them
+if you know more of such apps please leave them in the comments in this format and i will include them
 
 <br>
 
